@@ -1,4 +1,3 @@
-<h1>Drug-Inventory-Supply-Chain-Management-System</h1>
 <h1>Drug-Inventory-Supply-Chain-Management-System</h1><h2>Overview</h2>
 <p>The Drug Inventory Supply Chain Management System is a comprehensive framework designed to enhance the efficiency and effectiveness of drug distribution processes. By integrating advanced technologies and strategic planning, this system aims to streamline operations, reduce costs, and ensure the timely delivery of essential medications to healthcare facilities.</p>
 
